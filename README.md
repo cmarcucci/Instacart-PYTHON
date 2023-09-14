@@ -1,8 +1,8 @@
 # Instacart-PYTHON
 A data analysis project using PYTHON to analyze data from an an online grocery store, Instacart.
 
-### OBJECTIVES
-Rockbuster Stealth LLC is a fictional movie rental company that used to have stores around the world. Facing stiff competition from online streaming services the company is planning to use its existing licenses to launch an online video rental service to stay competitive. The objective of this analysis is to identify where the most loyal customers are located and what films should be in the inventory.
+### OBJECTIVE
+Instcart is an online grocery store that operates through an app. They have good sales historically but want to uncover more information about their sales patterns. 
 
 ### DATA
 A relational database made up of 15 tables containing data on film rentals, customers, actors, payments and more. Descriptions and Entity Relationship Diagram can be found in the Rockbuster Data Dictionary.
